@@ -4,6 +4,5 @@ composer install --prefer-dist --no-ansi --no-interaction --no-progress --no-scr
 
 cp .env.example .env
 
-composer serve
 
 php vendor/bin/phpunit
