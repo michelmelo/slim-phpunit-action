@@ -2,7 +2,6 @@
 
 composer install --prefer-dist --no-ansi --no-interaction --no-progress --no-scripts
 
-cp .env.example .env
 
 php -S localhost:8000 -t public &
 
