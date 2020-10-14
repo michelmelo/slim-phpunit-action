@@ -1,4 +1,4 @@
-# Slim PHPUnit Action
+# MM :: Slim PHPUnit
 
 A Github action to run your Slim project's PHPUnit test suite running with MySQL.
 
