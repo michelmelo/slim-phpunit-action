@@ -1,4 +1,4 @@
-name: "Slim PHPUnit"
+name: "MM :: Slim PHPUnit"
 description: "A GitHub action to run your Slim project's PHPUnit test suite."
 branding:
   icon: "check-circle"
